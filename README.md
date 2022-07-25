@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-GIF created with [Loom](https://www.loom.com/share/c5a5f65bfb0f4d10a940707a347550dd).  
+GIF created with [Giphy](https://media.giphy.com/media/pl6ED8S2rl3jqbXP23/giphy.gif).  
 
 ## Notes
 
