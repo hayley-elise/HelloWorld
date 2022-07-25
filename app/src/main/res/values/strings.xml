@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello World!</string>
+    <string name="HelloWorld_Intro"><![CDATA[Hello World! My name is Hayley. I hope you don\'t mind my green hair. <3]]></string>
+    <string name="Hello_Button">Say hello!</string>
+    <string name="HelloWorld_ImageDescription">Hayley Simmons</string>
+</resources>
